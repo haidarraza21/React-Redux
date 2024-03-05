@@ -1,0 +1,23 @@
+input {
+    width: 100%;
+}
+
+.todo-item {
+    text-align: left;
+}
+
+.kg-button {
+    min-width: 80px;
+}
+
+.kg-row {
+    margin: 10px 5px;
+}
+
+.name {
+    align-items: center;
+}
+
+#add-button {
+    width: 75px;
+}
